@@ -89,7 +89,7 @@ body {
 
 .promo {
     padding: 230px 0 240px;
-    background-image: url(/images/bg-promo.jpg);
+    background-image: url(../images/bg-promo.jpg);
     background-color: rgba(102, 209, 255, .1);
     background-repeat: no-repeat;
     background-size: cover;
